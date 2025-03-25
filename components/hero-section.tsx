@@ -5,7 +5,7 @@ export function HeroSection() {
   return (
     <div className="relative bg-gradient-to-r from-blue-600 to-indigo-700">
       <div className="container px-4 py-20 mx-auto text-center text-white md:py-32">
-        <h1 className="text-4xl font-bold tracking-tight md:text-6xl">Discover Your Next Adventure</h1>
+        <h1 className="text-4xl font-bold tracking-tight md:text-6xl">Apki mummy meri rakhael ~Akshat</h1>
         <p className="max-w-2xl mx-auto mt-6 text-xl">
           Search and book flights, trains, and buses all in one place. Plan your journey with ease and explore the
           world.
