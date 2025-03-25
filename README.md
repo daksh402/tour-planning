@@ -3,8 +3,8 @@
 pnpm run dev
 ```
 
-## How to install <package-name>
+## How to install "package-name"
 ```bash
-pnpm install <package-name>
+pnpm install package-name
 ```
 
